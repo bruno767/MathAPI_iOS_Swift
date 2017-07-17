@@ -5,7 +5,7 @@ This is an exercise project with the intention of showing some of my skills as a
 
 ### What is TheCalculator? ###
 
-![Mockup TheCalculator](https://bitbucket.org/payworks/io.payworks.recruiting.ios.bruno/raw/9e182e5703f06ee613463d5a08e48dae5d74525d/SimulatorScreenShot.png?at=master&fileviewer=file-view-default =10x)
+![TheCalculator](https://raw.githubusercontent.com/bruno767/MathAPI_iOS_Swift/master/SimulatorScreenShot.png)
 
 * Quick summary   
 
