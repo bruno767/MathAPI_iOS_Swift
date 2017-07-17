@@ -15,7 +15,7 @@ This is a project where it contains an API called MAthHelper whose main function
 
 ### Feel free to clone this project: ###
 
-git clone https://brunobarreto767@bitbucket.org/payworks/io.payworks.recruiting.ios.bruno.git
+git clone https://github.com/bruno767/MathAPI_iOS_Swift.git
 
 ### Features ###
 
@@ -24,7 +24,3 @@ git clone https://brunobarreto767@bitbucket.org/payworks/io.payworks.recruiting.
 * Unit Tests for Api MathHelper
 * Calculator App
 * APIError
-
-### Who do I talk to? ###
-
-* Payworks - Simon
